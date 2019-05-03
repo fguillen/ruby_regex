@@ -15,6 +15,9 @@ valid:
   - "singleLetterDomain@x.org"
   - "foor@bar.newTLD"
   - "with+plus@example.com"
+  - "test@feast.kitchen"
+  - "test@test.international"
+
 
 
 invalid:
