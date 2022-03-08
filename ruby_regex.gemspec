@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "ruby_regex"
-  s.version = "0.1.1"
+  s.version = "0.1.3"
   s.author = "Emili Parreno"
   s.email = "emili@eparreno.com"
   s.homepage = "http://github.com/eparreno/ruby_regex"
